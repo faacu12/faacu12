@@ -1,16 +1,16 @@
-## Hi there 👋
+# Soy Facu 👋
 
-<!--
-**faacu12/faacu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas (UAI) y soporte técnico. Me enfoco en C#/.NET (Framework 4.8 y .NET moderno), WinForms y SQL Server.
 
-Here are some ideas to get you started:
+- 🔭 Proyectos: Generala (TP), utilidades WinForms, herramientas para SQL Server
+- 🧪 Intereses: pruebas automatizadas (MSTest/NUnit), CI/CD con GitHub Actions
+- 💬 Hablemos de: C#, Windows, Git, SQL Server
+- 📫 Contacto: *https://www.linkedin.com/in/facundo-ignacio-lopez/*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+C# • .NET Framework 4.8 • WinForms • SQL Server • MSTest/NUnit • Git
+
+## Repos destacados
+- 🎲 **Generala** – juego con reglas separadas de la UI + tests
+- 🧰 **WinForms.Toolkit** – controles reutilizables (validación, diálogos, DataGridView)
+- 🗄️ **SqlServer.Tools** – backup/restore, seed y verificación de constraints
