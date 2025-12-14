@@ -1,4 +1,4 @@
-# Soy Facu 👋
+# Soy Facu
 
 Estudiante de Ingeniería en Sistemas (UAI) y soporte técnico. Me enfoco en C#/.NET (Framework 4.8 y .NET moderno), WinForms y SQL Server.
 
