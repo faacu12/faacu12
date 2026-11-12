@@ -4,5 +4,5 @@
 - 💬  C#, Windows, Git, SQL Server
 
 ## Tech
-C# • .NET Framework 4.8 • WinForms • SQL Server • MSTest/NUnit • Git
-
+C# • .NET Framework • WinForms • SQL Server • MSTest/NUnit • Git
+Python • Data Science • Data Analysis • Power BI • APIs REST
